@@ -15,7 +15,7 @@ import Arena from './Components/Arena';
 import LoadingIndicator from './Components/LoadingIndicator';
 
 // Constants
-const TWITTER_HANDLE = '_buildspace';
+const TWITTER_HANDLE = 'LatifMeharab';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
 const App = () => {
@@ -224,7 +224,7 @@ const App = () => {
             href={TWITTER_LINK}
             target="_blank"
             rel="noreferrer"
-          >{`built with @${TWITTER_HANDLE}`}</a>
+          >{`Follow on @${TWITTER_HANDLE}`}</a>
         </div>
       </div>
     </div>
